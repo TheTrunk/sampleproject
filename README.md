@@ -1,6 +1,6 @@
-# SampleProjectApp
+# NativeScript-Vue Application
 
-> sampleproject description
+> A native application built with NativeScript-Vue
 
 ## Usage
 

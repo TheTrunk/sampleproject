@@ -1,8 +1,8 @@
 {
-  "name": "sampleproject",
+  "name": "asd",
   "version": "1.0.0",
-  "description": "sampleproject description",
-  "author": "TheTrunk <TheTrunk@users.noreply.github.com>",
+  "description": "A native application built with NativeScript-Vue",
+  "author": "TheTrunk <tadeas.kmenta@zel.cash>",
   "license": "MIT",
   "scripts": {
     "build": "webpack --env.tnsAction build",
@@ -17,8 +17,8 @@
     "clean": "rimraf dist"
   },
   "dependencies": {
-    "bip32-utils": "git+https://github.com/TheTrunk/bip32-utils.git",
-    "bitcoinjs-lib": "git+https://github.com/TheTrunk/bitcoinjs-lib.git",
+    "bip32-utils": "git+https://github.com/thetrunk/bip32-utils.git",
+    "bitcoinjs-lib": "git+https://github.com/thetrunk/bitcoinjs-lib.git",
     "nativescript-theme-core": "^1.0.4",
     "nativescript-vue": "^1.3.1",
     "tns-core-modules": "~3.4.1",

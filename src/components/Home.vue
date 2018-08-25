@@ -26,6 +26,7 @@ export default {
   methods: {
   },
   mounted: function() {
+      console.log("here")
       var bitcoinjs = require('bitcoinjs-lib');
       var bip32utils = require('bip32-utils');
 
